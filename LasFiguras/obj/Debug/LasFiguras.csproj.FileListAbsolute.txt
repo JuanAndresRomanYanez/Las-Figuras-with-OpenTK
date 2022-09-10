@@ -1,0 +1,11 @@
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\bin\Debug\LasFiguras.exe.config
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\bin\Debug\LasFiguras.exe
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\bin\Debug\LasFiguras.pdb
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\bin\Debug\OpenTK.dll
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\bin\Debug\OpenTK.pdb
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\bin\Debug\OpenTK.xml
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\obj\Debug\LasFiguras.csprojAssemblyReference.cache
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\obj\Debug\LasFiguras.csproj.CoreCompileInputs.cache
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\obj\Debug\LasFiguras.csproj.CopyComplete
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\obj\Debug\LasFiguras.exe
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\LasFiguras\LasFiguras\obj\Debug\LasFiguras.pdb
